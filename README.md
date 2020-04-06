@@ -8,7 +8,7 @@ Based on the results, I would recommend starting a campaign in May or June, with
 
 Based on the kickstarter data, I have created a useful table and a couple of charts to help make a decision for running the Fever kickstarter campaign. The table describes the plays outcomes based on their goals. The table shows the number of successful, failed, canceled, and total projects based on the funding goal amount. The chart displays the percentage of successful, failed, and canceled projects from the table. 
 
-![Outcomes_Based_on_Goals](Kickstarter-analysis/Outcomes_Based_on_Goals.png)
+![Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
 
 Based on the chart:
 - The most successful campaigns for plays (or the least likely to fail) were those with the goal of $4,999.00 or less.
