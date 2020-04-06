@@ -16,8 +16,7 @@ Based on the chart:
 
 Another chart that I put together displayed the trends between the outcomes based on the launch date. 
 
-![Outcomes_Based_on_Launch_Date](Desktop/UT_Data/Crowdfunding_Analysis/Outcomes_Based_on_Launch_Date.png)
-
+![Outcomes_Based_on_Launch_Date](https://github.com/Daniel-Schroeder15/Kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 Based on the chart:
 - The most successful time to start a theatre campaign is May and June.
 - The least successful time to start a theatre campaign is December. 
